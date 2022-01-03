@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nadavshavit
+- 👀 I’m interested in C & Python developement as well as Networks
+- 📫 How to reach me - shavit.nadav@gmail.com
